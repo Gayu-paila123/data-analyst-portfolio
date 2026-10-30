@@ -84,3 +84,15 @@ Note: This project uses a small sample dataset created for learning purposes.
 
 ### 2. Units Sold by Product
 ![Units Sold by Product](units_sold_by_product.png)
+
+## Business Insights
+
+1. Laptop generated the highest revenue of ₹90,000.
+2. Mouse had the highest sales quantity with 5 units.
+3. Monitor generated the second-highest revenue of ₹24,000.
+
+## Business Recommendations
+
+1. Investigate laptop sales trends to understand the major revenue source.
+2. Explore opportunities to increase mouse sales further.
+3. Monitor demand and inventory levels for high-revenue products.
