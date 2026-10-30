@@ -76,3 +76,11 @@ Learning Outcomes
 - Creating bar charts using Matplotlib
 
 Note: This project uses a small sample dataset created for learning purposes.
+
+## Project Visualizations
+
+### 1. Revenue by Product
+![Revenue by Product](download.png)
+
+### 2. Units Sold by Product
+![Units Sold by Product](units_sold_by_product.png)
