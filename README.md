@@ -115,7 +115,8 @@ Note: This project uses a small sample dataset created for learning purposes.
 - South generated ₹1,15,900.
 - East generated the lowest revenue: ₹45,400.
 
-### Category Insights
+### Category
+ Insights
 - Electronics generated ₹5,01,000.
 - Accessories generated ₹47,400.
 - Electronics contributed approximately 91.4% of revenue.
