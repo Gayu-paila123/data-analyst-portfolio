@@ -96,3 +96,37 @@ Note: This project uses a small sample dataset created for learning purposes.
 1. Investigate laptop sales trends to understand the major revenue source.
 2. Explore opportunities to increase mouse sales further.
 3. Monitor demand and inventory levels for high-revenue products.
+
+## Advanced Retail Sales Analysis
+
+### Key Business Metrics
+- Total Revenue: ₹5,48,400
+- Total Units Sold: 62
+- Average Order Value: ₹27,420
+- Total Transactions: 20
+
+### Product Revenue Insights
+- Laptop generated the highest revenue: ₹4,05,000.
+- Monitor generated ₹96,000.
+- Mouse generated the lowest revenue: ₹11,000.
+
+### Regional Sales Insights
+- North generated the highest revenue: ₹3,17,500.
+- South generated ₹1,15,900.
+- East generated the lowest revenue: ₹45,400.
+
+### Category Insights
+- Electronics generated ₹5,01,000.
+- Accessories generated ₹47,400.
+- Electronics contributed approximately 91.4% of revenue.
+
+### Project Visualizations
+
+#### Product Revenue
+![Product Revenue](category_product_revenue_analysis.png)
+
+#### Regional Revenue
+![Regional Revenue](regional_revenue_analysis.png)
+
+#### Category Revenue
+![Category Revenue](category_revenue_analysis.png)
