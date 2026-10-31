@@ -22,7 +22,7 @@ Projects
 - Identify revenue trends and top-performing products.
 - Build interactive dashboards.
 
-Status: In Progress
+Status: Completed 🎉
 
 2. E-commerce Data Analysis
 
