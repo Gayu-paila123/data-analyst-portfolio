@@ -124,7 +124,7 @@ Note: This project uses a small sample dataset created for learning purposes.
 ### Project Visualizations
 
 #### Product Revenue
-![Product Revenue](<escape>Product _revenue_analysis.png</escape>)
+![Product Revenue](product_revenue_analysis.png)
 
 #### Regional Revenue
 ![Regional Revenue](regional_revenue_analysis.png)
