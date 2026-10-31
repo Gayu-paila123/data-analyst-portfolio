@@ -131,3 +131,32 @@ Note: This project uses a small sample dataset created for learning purposes.
 
 #### Category Revenue
 ![Category Revenue](category_revenue_analysis.png)
+
+## Project Overview
+
+This project analyzes retail sales data using Python and Pandas to identify revenue trends, top-performing products, regional performance, and category-wise sales.
+
+The analysis provides business insights that can help improve sales strategies and support data-driven decision-making.
+
+## Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+- GitHub
+
+  ## Business Recommendations
+
+1. Focus on laptop sales because they generate the highest revenue.
+2. Investigate the North region's strong sales performance.
+3. Develop strategies to increase Accessories category revenue.
+4. Monitor product demand to improve inventory planning.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Aggregation
+- Data Visualization
+- Business Insights
+- Python Programming
