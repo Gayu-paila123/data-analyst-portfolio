@@ -2,32 +2,50 @@ Telecom Customer Churn Analysis
 
 Project Overview
 
-Analyzed telecom customer data to identify churn patterns, understand customer behavior, and provide actionable business recommendations to improve customer retention.
+This project analyzes telecom customer data to identify customer churn patterns, understand customer behavior, and provide actionable business recommendations to improve customer retention.
 
-Tools Used
+Objectives
 
-- Python (Pandas, Matplotlib, Seaborn)
+- Analyze customer churn patterns.
+- Identify factors associated with customer churn.
+- Understand customer tenure and payment behavior.
+- Estimate monthly charges associated with churned customers.
+- Recommend strategies to improve customer retention.
+
+Tools & Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 - SQL (SQLite)
 - Plotly
 - Google Colab
 
-Key Findings
+Project Files
 
-- New customers (0–12 months) have a churn rate of 47.44%.
-- Long-term customers have a churn rate of 9.51%.
-- Electronic check users have the highest churn rate (45.29%).
-- Churned customers represent approximately 139,130.85 in monthly charges at risk.
+File| Description
+"Interactive Dashboard" (Customer_Churn_Dashboard.html)| Visual analysis dashboard
+"Python Notebook" (Customer_Churn_Analysis.ipynb)| Complete analysis and code
+"Cleaned Dataset" (Customer_Churn_Cleaned.csv)| Processed customer data
+
+Key Business Insights
+
+1. New customers (0–12 months) have a churn rate of 47.44%.
+2. Long-term customers have a churn rate of 9.51%.
+3. Electronic check users have the highest churn rate at 45.29%.
+4. Churned customers account for approximately 139,130.85 in monthly charges.
 
 Business Recommendations
 
-- Improve onboarding and support for new customers.
-- Encourage customers to use automatic payment methods.
-- Strengthen retention programs for high-risk customers.
-- Monitor customer satisfaction and service issues.
+- Improve onboarding for new customers.
+- Strengthen customer support during the first year.
+- Investigate why electronic check users have higher churn.
+- Develop customer retention strategies for high-risk segments.
 
-Dashboard
+Conclusion
 
-Interactive HTML dashboard included in this repository.
+The analysis highlights important customer segments associated with higher churn and provides data-driven recommendations to support customer retention.
 
 Project Status
 
