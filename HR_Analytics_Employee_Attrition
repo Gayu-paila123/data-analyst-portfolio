@@ -2,18 +2,15 @@ HR Analytics – Employee Attrition Analysis
 
 Project Overview
 
-This project analyzes employee attrition using HR data to identify patterns and understand factors associated with employee turnover.
-
-The objective is to help HR teams make data-driven decisions and improve employee retention.
+This project analyzes employee attrition using HR data to identify patterns and understand employee turnover.
 
 Project Objectives
 
 - Analyze overall employee attrition.
-- Identify departments with high attrition rates.
-- Analyze attrition across different job roles.
-- Study the impact of overtime and job satisfaction.
-- Explore employee demographics and work-related factors.
-- Provide actionable business recommendations.
+- Identify departments with high attrition.
+- Analyze job-role-wise attrition.
+- Study overtime and job satisfaction.
+- Provide business recommendations.
 
 Dataset Information
 
@@ -30,41 +27,22 @@ Tools & Technologies
 - Matplotlib
 - Seaborn
 
-Project Workflow
-
-1. Data loading and exploration
-2. Data cleaning and quality checks
-3. Exploratory Data Analysis (EDA)
-4. Department-wise attrition analysis
-5. Job-role-wise attrition analysis
-6. Employee demographic analysis
-7. Overtime and job satisfaction analysis
-8. Data visualization
-9. Business insights and recommendations
-
 Key Findings
 
-- Sales department recorded the highest attrition rate at 20.63%.
-- Human Resources recorded 19.05% attrition.
-- Research & Development recorded 13.84% attrition.
-- Sales Representatives had the highest job-role attrition rate at 39.76%.
+- Sales department attrition: 20.63%
+- Human Resources attrition: 19.05%
+- Research & Development attrition: 13.84%
+- Sales Representatives attrition: 39.76%
 
 Business Recommendations
 
-- Review sales targets, incentives, and employee workload.
-- Improve retention strategies for high-attrition job roles.
-- Monitor overtime and employee satisfaction.
-- Provide career development and growth opportunities.
-- Strengthen employee engagement initiatives.
-
-Project Structure
-
-- "HR_Analytics_Employee_Attrition.ipynb" – Python analysis notebook
-- "HR_Analytics_Dashboard.png" – HR analytics dashboard
-- "HR_Analytics_Results.zip" – Analysis results and CSV reports
+- Review sales targets and workload.
+- Improve employee retention strategies.
+- Monitor overtime and job satisfaction.
+- Provide career development opportunities.
 
 Conclusion
 
-This project demonstrates how data analytics can help organizations understand employee attrition patterns and support better workforce planning and HR decision-making.
+This project demonstrates how data analytics can help organizations understand employee attrition and improve workforce planning.
 
 Created as part of my Data Analytics Portfolio.
